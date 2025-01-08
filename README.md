@@ -41,14 +41,13 @@ It includes Python and R scripts for data processing, analysis, and visualizatio
 ## File Structure
 ```
 .
-├── data/                    # Raw and processed datasets
-├── scripts/                 # Scripts for data preprocessing and analysis
-│   ├── preprocess.py        # Python script for preprocessing RNA-seq data
-│   ├── bulk_analysis.R      # R script for bulk sequencing analysis
-│   └── single_cell_analysis.R # R script for single-cell analysis
-├── report.pdf               # Detailed project report
-├── results/                 # Output figures and summary tables
-└── README.md                # Documentation
+├── finel_projet_part1.ipynb   # Python script for preprocessing RNA-seq data
+├── genomics_project_Q1.R      # R script for Part 1 - analysis of bulk sequencing
+├── genomics_project_Q2.R      # R script for Part 2 - analysis of single cell sequencing
+├── Neuro Genomics Project.pdf # Detailed project report
+├── neuro-genomics project instructions.pdf # Project instructions
+├── README.md                  # Project documentation
+
 ```
 
 ---
