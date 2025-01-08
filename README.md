@@ -61,7 +61,7 @@ It includes Python and R scripts for data processing, analysis, and visualizatio
 ### Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/neuro-genomics-project.git
+   git clone https://github.com/12danielLL/Neurogenomics_Project.git
    cd neuro-genomics-project
    ```
 2. Install dependencies:
